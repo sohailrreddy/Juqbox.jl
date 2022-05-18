@@ -29,7 +29,7 @@ struct splineparams
         new(T, D1, tcenter, dtknot, pcof, Nseg, Nseg*D1)
     end
 
-end
+end 
 
 # bspline2: Evaluate quadratic bspline function
 """
